@@ -12,3 +12,7 @@ library(tidyverse)
 movies <- read_csv("data/movies.csv")
 ```
 
+```{r}
+movies
+```
+
